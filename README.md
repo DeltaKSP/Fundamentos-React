@@ -2,8 +2,7 @@
 
 ### Sobre
 
-O projeto foi criado com o objetivo de se obter um CRUD serverless na nuvem AWS, por isso foi configurado um arquivo serverless.yml 
-para a realização de uma estrutura de nuvem AWS com os serviços de AWS Lambda, AWS DynamoDB, AWS API Gateway e AWS CloudFormation.
+Portifolio criado para visualizar conceitos basicos de React e componentes 
 
 
 ## Tecnologias
